@@ -1,0 +1,22 @@
+OMS: Superflat and its datapacks are MADE FOR 1.21.8!
+
+Each datapack is already zipped and at the oms_superflat directory.
+
+- 
+
+oms_management is a datapack for managing OMS. (ver 1) 
+Its main functionality is the functions:
+    pause
+    unpause
+Pausing the server forces everyone except for The Trusted Operator (explicitly written) (important) (you have to change this) into spectator mode and they are stuck at world spawn (explicitly written) (important) (you have to change this)
+
+oms_management is strictly made for Operators only.
+Certain oms_management functions use the name 'Optim00se', so IF YOU WANT TO USE THIS DATAPACK, you MUST change all of the references to Optim00se to yourself or others.
+tick.mcfunction may teleport players to the world spawn, so IF YOU WANT TO USE THIS DATAPACK, you MUST change the world spawn teleport.
+
+
+-
+
+oms_wt announces when Wandering Traders spawn and uses a Trigger scoreboard to tell when the last wandering trader spawned. (ver 2)
+If no wandering traders have spawned yet, using the command will say the last one spawned at world creation.
+Anyone can use /trigger lastwanderer set 1
